@@ -134,6 +134,6 @@ Hitung skor risiko dengan AI (akan aktif setelah model tersedia)
 ## ✅ Status
 
 - Semua endpoint dapat diuji di [http://localhost:8000/docs](http://localhost:8000/docs)
-- Import Postman Collection dari file: `DebtWatch_API_Collection.postman_collection.json`
+- Import Postman Collection dari file: `API_collection.json`
 
 ---
